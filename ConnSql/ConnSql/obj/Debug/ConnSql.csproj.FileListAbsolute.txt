@@ -1,0 +1,9 @@
+E:\project\P213\ConnSql\ConnSql\bin\Debug\ConnSql.exe.config
+E:\project\P213\ConnSql\ConnSql\bin\Debug\ConnSql.exe
+E:\project\P213\ConnSql\ConnSql\bin\Debug\ConnSql.pdb
+E:\project\P213\ConnSql\ConnSql\obj\Debug\ConnSql.csprojAssemblyReference.cache
+E:\project\P213\ConnSql\ConnSql\obj\Debug\ConnSql.Form1.resources
+E:\project\P213\ConnSql\ConnSql\obj\Debug\ConnSql.Properties.Resources.resources
+E:\project\P213\ConnSql\ConnSql\obj\Debug\ConnSql.csproj.GenerateResource.cache
+E:\project\P213\ConnSql\ConnSql\obj\Debug\ConnSql.exe
+E:\project\P213\ConnSql\ConnSql\obj\Debug\ConnSql.pdb
